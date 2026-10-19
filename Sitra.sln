@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sitra", "Sitra\Sitra.vbproj", "{75C44125-9B57-4EC7-A5F7-AC1218D7B078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C44125-9B57-4EC7-A5F7-AC1218D7B078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C44125-9B57-4EC7-A5F7-AC1218D7B078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C44125-9B57-4EC7-A5F7-AC1218D7B078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C44125-9B57-4EC7-A5F7-AC1218D7B078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9259D9A4-9455-403F-8000-0CB07D0B3EBB}
+	EndGlobalSection
+EndGlobal
